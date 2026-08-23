@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:00FFFF,100:BC25F7&height=200&section=header&text=MemoEmery&fontSize=55&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20%E2%80%A2%20DATA%20%E2%80%A2%20TECHNOLOGY&descAlignY=58&descSize=20" />
+<img src="https://demolab.com" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=EMERSON+OLIVEIRA;SYSTEM+ONLINE;BUILDING+DIGITAL+SOLUTIONS" alt="Typing SVG" />
+<br>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=39FF14)](https://github.com/MemoEmery)
 [![Site](https://img.shields.io/badge/-emersonoliveira.dev-000000?style=flat-square&logo=internetarchive&logoColor=00FFFF)](https://emersonoliveira.dev)
@@ -154,28 +154,4 @@ Espaço de experimentação e evolução contínua, com foco em:
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=MemoEmery&hide_border=true&background=00000000&ring=BC25F7&fire=39FF14&currStreakLabel=00FFFF&currStreakNum=00FFFF&sideLabels=00FFFF&sideNums=39FF14&dates=00FFFF" />
-</div>
-
-<!-- TODO: se algum card do github-readme-stats.vercel.app não carregar (às vezes atinge limite de uso por ser muito popular), aguarde alguns minutos e recarregue a página do GitHub — é um problema conhecido do serviço público e não do seu código -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:00FFFF,100:BC25F7&height=6&section=header" width="100%" />
-
-<div align="center">
-
-```text
-BUILD → DEBUG → DEPLOY
-```
-
-```text
-🤖 [ INSERT COIN TO CONTINUE ]
-```
-
-```text
-> SYSTEM STATUS: ONLINE
-> USER: MEMOEMERY
-> CONNECTION: ESTABLISHED
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC25F7,50:00FFFF,100:39FF14&height=100&section=footer" />
-
 </div>
