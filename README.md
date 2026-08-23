@@ -1,315 +1,181 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════╗
-║              🕹️  PLAYER 01                   ║
-║                                                ║
-║              EMERSON OLIVEIRA                 ║
-║                                                ║
-║       SOFTWARE • DATA • TECHNOLOGY            ║
-║                                                ║
-║          ▶ INSERT COIN TO START               ║
-╚══════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:00FFFF,100:BC25F7&height=200&section=header&text=MemoEmery&fontSize=55&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20%E2%80%A2%20DATA%20%E2%80%A2%20TECHNOLOGY&descAlignY=58&descSize=20" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=B026FF&center=true&vCenter=true&width=600&lines=Software+Developer;Data+Enthusiast;Technology+%26+Problem+Solving;INSERT+COIN+%E2%86%92+CODE+%E2%86%92+DEBUG+%E2%86%92+DEPLOY)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=EMERSON+OLIVEIRA;SYSTEM+ONLINE;BUILDING+DIGITAL+SOLUTIONS" alt="Typing SVG" />
 
-**Software Developer &nbsp;•&nbsp; Data Enthusiast &nbsp;•&nbsp; Technology**
-
-```
-PLAYER: EMERSON
-CLASS:  DEVELOPER
-STATUS: ONLINE
-MISSION: BUILD • LEARN • CREATE
-```
-
-[![GitHub](https://img.shields.io/badge/GitHub-MemoEmery-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7)](https://github.com/MemoEmery)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00B4FF)](https://www.linkedin.com/in/emerson-oliveira-o-l)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-0D1117?style=for-the-badge&logo=instagram&logoColor=FF2E9F)](https://www.instagram.com/emersonoliveira.dev/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=39FF14)](https://github.com/MemoEmery)
+[![Site](https://img.shields.io/badge/-emersonoliveira.dev-000000?style=flat-square&logo=internetarchive&logoColor=00FFFF)](https://emersonoliveira.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/emerson-oliveira-o-l)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=BC25F7)](https://memoemery.github.io/Portfolio/)
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00FFFF&height=6&section=header" width="100%" />
+
+## 🟢 SYSTEM STATUS
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                       SYSTEM STATUS                          │
+├──────────────────────────────────────────────────────────────┤
+│ STATUS      : ONLINE                                         │
+│ USER        : MemoEmery                                      │
+│ CLASS       : Coordenador da Sala do Empreendedor             │
+│               & Agente de Desenvolvimento                     │
+│ FORMATION   : Sistemas de Informação                          │
+│ LOCATION    : Triunfo, PE, Brazil                              │
+│ PINNED REPO : MPOO-Projetos                                    │
+│                                                                │
+│ ├── SOFTWARE                                                  │
+│ ├── DATA                                                      │
+│ ├── TECHNOLOGY                                                │
+│ └── ENTREPRENEURSHIP                                          │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:BC25F7&height=6&section=header" width="100%" />
 
 ## 👾 PLAYER PROFILE
 
-**Sistemas de Informação | Desenvolvedor em formação**, atuando com **Java, JavaScript, SQL, BI**
-e desenvolvimento de soluções orientadas a dados. Interessado em transformar problemas
-complexos em soluções simples — seja pelo código, pelos dados ou por trás de uma boa ideia.
+Sou Emerson Oliveira, estudante de **Sistemas de Informação** e atuo na fronteira entre
+**software, dados, tecnologia e empreendedorismo**. No dia a dia, coordeno a Sala do
+Empreendedor de Triunfo, onde aplico raciocínio analítico e resolução de problemas para
+apoiar empreendedores locais — e uso esse mesmo raciocínio para desenvolver soluções de
+software e explorar dados. Acredito que tecnologia e gestão andam juntas, e é nessa
+interseção que venho construindo minha trajetória.
 
-**Áreas de interesse e atuação:**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC25F7,100:39FF14&height=6&section=header" width="100%" />
 
-- 🖥️ Desenvolvimento de software
-- 📊 Análise de dados & Power BI
-- 🌐 Desenvolvimento Web
-- 🤖 Inteligência Artificial
-- 🎮 Desenvolvimento de jogos
-- 🚀 Empreendedorismo e tecnologia
+## 🚀 CURRENT MISSION
 
-<!-- TODO: expanda essa apresentação com mais detalhes sobre sua trajetória, se desejar -->
+- [x] [MAIN TASK] Atendimento a empreendedores
+- [x] [MAIN TASK] Formalização de MEIs
+- [x] [MAIN TASK] Orientação empresarial
+- [x] [MAIN TASK] Orientação sobre crédito
+- [x] [MAIN TASK] Desenvolvimento de projetos
+- [x] [MAIN TASK] Inovação e tecnologia local
+- [x] [SKILLS UNLOCKED] Gestão
+- [x] [SKILLS UNLOCKED] Comunicação
+- [x] [SKILLS UNLOCKED] Atendimento
+- [x] [SKILLS UNLOCKED] Negociação
+- [x] [SKILLS UNLOCKED] Resolução de Problemas
+- [x] [SKILLS UNLOCKED] Análise de Informações
+- [x] [SKILLS UNLOCKED] Organização de Projetos
+- [x] [SKILLS UNLOCKED] Empreendedorismo
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00FFFF&height=6&section=header" width="100%" />
 
-## ⚔️ SKILL TREE
+## 🌳 SKILL TREE
 
-```
-                ┌── SOFTWARE ──┐
-                │              │
-           PYTHON            JAVA
-              │                │
-           JAVASCRIPT        SPRING BOOT
-              │
-            NODE.JS
-
-                ┌── DATA ──────┐
-                │              │
-              SQL           POWER BI
-                │
-             ANÁLISE DE DADOS
-```
-
-| 💻 Programming | 🌐 Frontend | ⚙️ Backend | 📊 Data & Analytics | 🗄️ Databases | 🛠️ Tools |
-|---|---|---|---|---|---|
-| Python | React | Node.js | Power BI | PostgreSQL | Git |
-| Java | HTML/CSS | Spring Boot | Análise de Dados | MySQL | GitHub |
-| JavaScript | | | | | VS Code |
-| SQL | | | | | |
-
-<!-- TODO: ajuste a árvore/tabela conforme seu stack real -->
-
-<br>
-
-## 🕹️ TECH ARCADE
-
-*Representação apenas visual — não indica níveis reais de domínio.*
-
-```
-┌────────────────────────────────────────────┐
-│              TECH ARCADE                    │
-├────────────────────────────────────────────┤
-│ 🐍 PYTHON        ██████████                │
-│ ☕ JAVA          █████████░                │
-│ 🌐 JAVASCRIPT    █████████░                │
-│ 🗄️ SQL           ██████████                │
-│ ⚛️ REACT         ████████░░                │
-│ 📊 POWER BI      ████████░░                │
-└────────────────────────────────────────────┘
-```
+**Development**
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=39FF14)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FF6B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00B4FF)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FFF7)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=39FF14)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=39FF14)
-![Power BI](https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF2E9F)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7)
-
+<img src="https://skillicons.dev/icons?i=java,js,python,nodejs,git,github" />
 </div>
 
-<br>
+**Data & BI**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:BC25F7&height=6&section=header" width="100%" />
+
+## 🗺️ PROJECT SELECT
+
+| Mission / Repository | Status / Tech |
+|---|---|
+| [DataMart-Estimativas-de-chegadas-de-turistas-internacionais-ao-Brasil](https://github.com/MemoEmery/DataMart-Estimativas-de-chegadas-de-turistas-internacionais-ao-Brasil) | 📊 Data / BI |
+| [Analisando_Dados_-_com-_Python](https://github.com/MemoEmery/Analisando_Dados_-_com-_Python) | 🐍 Python / Pandas |
+| [Gestao_Sazonalidade_Turismo_Recife](https://github.com/MemoEmery/Gestao_Sazonalidade_Turismo_Recife) | 📊 Data Analysis |
+| [Projeto-de-Previs-o-com-Machine-Learning](https://github.com/MemoEmery/Projeto-de-Previs-o-com-Machine-Learning) | 🤖 AI / ML |
+| [PROJETO--CHATBOT](https://github.com/MemoEmery/PROJETO--CHATBOT) | 🤖 Automation |
+| [Cria-o-de-Chatbot-com-IA-em-Tempo-Real](https://github.com/MemoEmery/Cria-o-de-Chatbot-com-IA-em-Tempo-Real) | 🧠 AI / Node.js |
+| [Automa-es-de-Tarefas-e-Bots](https://github.com/MemoEmery/Automa-es-de-Tarefas-e-Bots) | ⚙️ Scripts |
+| [MPOO-Projetos](https://github.com/MemoEmery/MPOO-Projetos) | ☕ Java / OOP ⭐ *(pinned)* |
+| [AED-PROJETOS](https://github.com/MemoEmery/AED-PROJETOS) | 🖥️ Algoritmos |
+| [Portfolio](https://github.com/MemoEmery/Portfolio) | 🌐 Web Deployment |
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC25F7,100:39FF14&height=6&section=header" width="100%" />
+
+## ⚡ LEVEL UP
+
+*As trilhas abaixo representam frentes de evolução e aprendizado — não são percentuais reais de domínio.*
+
+**Development Branch**
+`[▓▓▓▓▓▓▓▓░░░░░░░░░░░░]`
+
+**Data Science Branch**
+`[▓▓▓▓▓▓▓░░░░░░░░░░░░░]`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00FFFF&height=6&section=header" width="100%" />
+
+## 🧠 LEARNING LAB
+
+Espaço de experimentação e evolução contínua, com foco em:
+
+- 🖥️ Desenvolvimento de Software
+- 📊 Análise de Dados
+- 🤖 Inteligência Artificial
+- ⚙️ Automação
+- 💼 Tecnologia aplicada a negócios
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:BC25F7&height=6&section=header" width="100%" />
 
 ## 🏆 ACHIEVEMENTS UNLOCKED
 
-```
-[✓] First Project
-[✓] GitHub Developer
-[✓] Data Explorer
-[✓] Problem Solver
-[ ] Build the Next Big Project...
-```
+- 🏆 Reconhecimento pela atuação na Sala do Empreendedor de Triunfo
+- 🏆 Reconhecimento pelo atendimento itinerante a empreendedores
 
-<!-- TODO: atualize as conquistas conforme sua evolução real -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC25F7,100:39FF14&height=6&section=header" width="100%" />
 
-<br>
+## 📊 REAL-TIME METRICS DASHBOARD
 
-## 🚀 CURRENT MISSIONS
-
-```
-[ ] Evoluir em desenvolvimento de software
-[ ] Aprimorar análise de dados
-[ ] Desenvolver projetos próprios
-[ ] Aprender novas tecnologias continuamente
-[ ] Criar soluções utilizando tecnologia
-[ ] Explorar desenvolvimento de jogos
-```
-
-<!-- TODO: marque [x] nas missões concluídas -->
-
-<br>
-
-## 🎮 PROJECT SELECT
-
-```
-╔════════════════════════════════════════════════════════╗
-║                   🎮 SELECT PROJECT                     ║
-╠════════════════════════════════════════════════════════╣
-║ ▶ 01 — DataMart Turismo Internacional                   ║
-║   02 — Portfolio                                        ║
-║   03 — Análise de Dados com Python                      ║
-║   04 — Gestão de Sazonalidade do Turismo (Recife)        ║
-║   05 — Previsão com Machine Learning                     ║
-║   06 — Projeto Chatbot                                   ║
-║   07 — Chatbot com IA em Tempo Real                      ║
-║   08 — Automações de Tarefas e Bots                      ║
-║   09 — MPOO Projetos ⭐ (pinned)                          ║
-║   10 — AED Projetos                                       ║
-╚════════════════════════════════════════════════════════╝
-```
-
-<table>
-<tr>
-<td width="50%">
-
-**🔹 DataMart — Estimativas de Chegadas de Turistas**
-
-DataMart para estimativas de chegadas de turistas internacionais ao Brasil.
-
-🔗 [Repositório](https://github.com/MemoEmery/DataMart-Estimativas-de-chegadas-de-turistas-internacionais-ao-Brasil)
-
-</td>
-<td width="50%">
-
-**🔹 Portfolio**
-
-Repositório central com os projetos e trabalhos em destaque.
-
-🔗 [Repositório](https://github.com/MemoEmery/Portfolio) &nbsp;|&nbsp; 🌐 [Site publicado](https://memoemery.github.io/Portfolio/)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔹 Analisando Dados com Python**
-
-Projetos de análise exploratória e tratamento de dados usando Python.
-
-🔗 [Repositório](https://github.com/MemoEmery/Analisando_Dados_com_Python)
-
-</td>
-<td width="50%">
-
-**🔹 Gestão de Sazonalidade do Turismo (Recife)**
-
-Estudo sobre a sazonalidade do turismo na cidade do Recife.
-
-🔗 [Repositório](https://github.com/MemoEmery/Gestao_Sazionalidade_Turismo_Recife)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔹 Previsão com Machine Learning**
-
-Projeto de modelagem preditiva utilizando técnicas de Machine Learning.
-
-🔗 [Repositório](https://github.com/MemoEmery/Projeto-de-Previs-o-com-Machine-Learning)
-
-</td>
-<td width="50%">
-
-**🔹 Projeto Chatbot**
-
-Desenvolvimento de um chatbot para automação de conversas.
-
-🔗 [Repositório](https://github.com/MemoEmery/PROJETO---CHATBOT)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔹 Chatbot com IA em Tempo Real**
-
-Criação de um chatbot com inteligência artificial operando em tempo real.
-
-🔗 [Repositório](https://github.com/MemoEmery/Cria-o-de-Chatbot-com-IA-em-Tempo-Real)
-
-</td>
-<td width="50%">
-
-**🔹 Automações de Tarefas e Bots**
-
-Scripts e bots voltados para automação de tarefas.
-
-🔗 [Repositório](https://github.com/MemoEmery/Automa-es-de-Tarefas-e-Bots)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔹 MPOO Projetos** ⭐
-
-Projetos desenvolvidos com Modelagem e Programação Orientada a Objetos.
-
-🔗 [Repositório](https://github.com/MemoEmery/MPOO-Projetos)
-
-</td>
-<td width="50%">
-
-**🔹 AED Projetos**
-
-Projetos de Algoritmos e Estruturas de Dados.
-
-🔗 [Repositório](https://github.com/MemoEmery/AED-PROJETOS)
-
-</td>
-</tr>
-</table>
-
-<!-- TODO: confira os links (acentos/caracteres especiais podem variar a URL exata) e atualize descrições/status conforme o andamento -->
-
-<br>
-
-## 📊 GITHUB STATS
+**Commits ao longo do tempo**
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MemoEmery&show_icons=true&theme=radical&hide_border=true&title_color=B026FF&icon_color=00FFF7&text_color=FFFFFF&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MemoEmery&layout=compact&theme=radical&hide_border=true&title_color=B026FF&text_color=FFFFFF&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MemoEmery&theme=radical&hide_border=true&ring=B026FF&fire=FF2E9F&background=0D1117)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MemoEmery&bg_color=00000000&color=39FF14&line=00FFFF&point=BC25F7&area=true&area_color=39FF14&hide_border=true&hide_title=false" />
 </div>
 
-<br>
-
-## 🌐 PLAYER NETWORK
+**Linguagens mais usadas**
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-MemoEmery-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7)](https://github.com/MemoEmery)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emerson%20Oliveira-0D1117?style=for-the-badge&logo=linkedin&logoColor=00B4FF)](https://www.linkedin.com/in/emerson-oliveira-o-l)
-[![Instagram](https://img.shields.io/badge/Instagram-emersonoliveira.dev-0D1117?style=for-the-badge&logo=instagram&logoColor=FF2E9F)](https://www.instagram.com/emersonoliveira.dev/)
-[![Email](https://img.shields.io/badge/Email-SEU_EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:SEU_EMAIL)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemoEmery&layout=compact&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=00FFFF" />
 </div>
 
-<!-- TODO: substitua "SEU_EMAIL" pelo seu e-mail de contato -->
+**Estatísticas gerais**
 
-<br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MemoEmery&show_icons=true&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=00FFFF&icon_color=BC25F7&border_color=BC25F7" />
+</div>
+
+**Streak**
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=MemoEmery&hide_border=true&background=00000000&ring=BC25F7&fire=39FF14&currStreakLabel=00FFFF&currStreakNum=00FFFF&sideLabels=00FFFF&sideNums=39FF14&dates=00FFFF" />
+</div>
+
+<!-- TODO: se algum card do github-readme-stats.vercel.app não carregar (às vezes atinge limite de uso por ser muito popular), aguarde alguns minutos e recarregue a página do GitHub — é um problema conhecido do serviço público e não do seu código -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:00FFFF,100:BC25F7&height=6&section=header" width="100%" />
 
 <div align="center">
 
-```
-╔════════════════════════════════════╗
-║             GAME OVER               ║
-║                                      ║
-║       But the developer             ║
-║          never stops.               ║
-║                                      ║
-║       ▶ CONTINUE...                 ║
-╚════════════════════════════════════╝
+```text
+BUILD → DEBUG → DEPLOY
 ```
 
-**🕹️ INSERT COIN → CODE → DEBUG → BUILD → DEPLOY → LEVEL UP**
+```text
+🤖 [ INSERT COIN TO CONTINUE ]
+```
+
+```text
+> SYSTEM STATUS: ONLINE
+> USER: MEMOEMERY
+> CONNECTION: ESTABLISHED
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC25F7,50:00FFFF,100:39FF14&height=100&section=footer" />
 
 </div>
