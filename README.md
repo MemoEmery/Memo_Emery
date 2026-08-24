@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:00FFFF,100:BC25F7&height=200&section=header&text=MemoEmery&fontSize=55&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20%E2%80%A2%20DATA%20%E2%80%A2%20TECHNOLOGY&descAlignY=58&descSize=20" />
 
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=39FF14)](https://github.com/MemoEmery)
-[![Site](https://img.shields.io/badge/-emersonoliveira.dev-000000?style=flat-square&logo=internetarchive&logoColor=00FFFF)](https://emersonoliveira.dev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/emerson-oliveira-o-l)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=BC25F7)](https://memoemery.github.io/Portfolio/)
+[![GitHub](https://shields.io)](https://github.com/MemoEmery)
+[![Site](https://shields.io)](https://emersonoliveira.dev)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/emerson-oliveira-o-l)
+[![Portfolio](https://shields.io)](https://memoemery.github.io/Portfolio/)
 
 </div>
 
@@ -13,24 +13,35 @@
 
 ## 🟢 SYSTEM STATUS
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                       SYSTEM STATUS                          │
-├──────────────────────────────────────────────────────────────┤
-│ STATUS      : ONLINE                                         │
-│ USER        : MemoEmery                                      │
-│ CLASS       : Coordenador da Sala do Empreendedor             │
-│               & Agente de Desenvolvimento                     │
-│ FORMATION   : Sistemas de Informação                          │
-│ LOCATION    : Triunfo, PE, Brazil                              │
-│ PINNED REPO : MPOO-Projetos                                    │
-│                                                                │
-│ ├── SOFTWARE                                                  │
-│ ├── DATA                                                      │
-│ ├── TECHNOLOGY                                                │
-│ └── ENTREPRENEURSHIP                                          │
-└──────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+  <!-- Cabeçalho Principal -->
+  <img src="https://vercel.app📡%20MAIN_CORE%20//%20SYSTEM%20STATUS&fontSize=16&fontColor=39FF14&fontAlign=left&fontAlignX=5" />
+  
+  <br>
+
+  <!-- Dados do Usuário e Status -->
+  <img src="https://vercel.app>>%20STATUS%20......%20ONLINE&fontSize=13&fontColor=39FF14&fontAlign=left&fontAlignX=5&animation=typing" />
+  
+  <img src="https://vercel.app>>%20USER%20........%20MemoEmery&fontSize=13&fontColor=00FFFF&fontAlign=left&fontAlignX=5&animation=typing" />
+  
+  <img src="https://vercel.app>>%20CLASS%20.......%20Coord.%20Sala%20do%20Empreendedor&fontSize=12&fontColor=00FFFF&fontAlign=left&fontAlignX=5&animation=typing" />
+  
+  <img src="https://vercel.app>>%20FORMATION%20...%20Sistemas%20de%20Informacao&fontSize=13&fontColor=00FFFF&fontAlign=left&fontAlignX=5&animation=typing" />
+  
+  <img src="https://vercel.app>>%20LOCATION%20....%20Triunfo,%20PE,%20Brazil&fontSize=13&fontColor=00FFFF&fontAlign=left&fontAlignX=5&animation=typing" />
+
+  <br>
+
+  <!-- Subdiretórios de Atuação -->
+  <img src="https://vercel.app├──%20[SYS_DIR]%20SOFTWARE&fontSize=13&fontColor=BC25F7&fontAlign=left&fontAlignX=5&animation=typing" />
+  
+  <img src="https://vercel.app├──%20[SYS_DIR]%20DATA&fontSize=13&fontColor=BC25F7&fontAlign=left&fontAlignX=5&animation=typing" />
+  
+  <img src="https://vercel.app├──%20[SYS_DIR]%20TECHNOLOGY&fontSize=13&fontColor=BC25F7&fontAlign=left&fontAlignX=5&animation=typing" />
+  
+  <img src="https://vercel.app└──%20[SYS_DIR]%20ENTREPRENEURSHIP&fontSize=13&fontColor=BC25F7&fontAlign=left&fontAlignX=5&animation=typing" />
+</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:BC25F7&height=6&section=header" width="100%" />
 
@@ -47,20 +58,33 @@ interseção que venho construindo minha trajetória.
 
 ## 🚀 CURRENT MISSION
 
-- [x] [MAIN TASK] Atendimento a empreendedores
-- [x] [MAIN TASK] Formalização de MEIs
-- [x] [MAIN TASK] Orientação empresarial
-- [x] [MAIN TASK] Orientação sobre crédito
-- [x] [MAIN TASK] Desenvolvimento de projetos
-- [x] [MAIN TASK] Inovação e tecnologia local
-- [x] [SKILLS UNLOCKED] Gestão
-- [x] [SKILLS UNLOCKED] Comunicação
-- [x] [SKILLS UNLOCKED] Atendimento
-- [x] [SKILLS UNLOCKED] Negociação
-- [x] [SKILLS UNLOCKED] Resolução de Problemas
-- [x] [SKILLS UNLOCKED] Análise de Informações
-- [x] [SKILLS UNLOCKED] Organização de Projetos
-- [x] [SKILLS UNLOCKED] Empreendedorismo
+<div align="center">
+  <!-- Cabeçalho Animado do HUD -->
+  <img src="https://vercel.app⚡%20HUD%20//%20MISSION%20LOG%20v2.77&fontSize=16&fontColor=39FF14&fontAlign=left&fontAlignX=5" />
+  
+  <br>
+
+  <!-- Linhas Animadas Simulando Terminal/Digitação -->
+  <img src="https://vercel.app└─%20🟢%20[EXEC]%20Atendimento%20%26%20Formalizacao%20MEI&fontSize=13&fontColor=00FFFF&fontAlign=left&fontAlignX=5&animation=typing" />
+  
+  <img src="https://vercel.app└─%20🟢%20[EXEC]%20Orientacao%20Empresarial%20%26%20Credito&fontSize=13&fontColor=00FFFF&fontAlign=left&fontAlignX=5&animation=typing" />
+  
+  <img src="https://vercel.app└─%20🟢%20[EXEC]%20Inovacao%20%26%20Projetos%20Tecnologicos&fontSize=13&fontColor=00FFFF&fontAlign=left&fontAlignX=5&animation=typing" />
+
+  <br>
+
+  <!-- Cabeçalho da Skill Tree -->
+  <img src="https://vercel.app🔓%20EXP%20TREE%20//%20PERKS%20UNLOCKED&fontSize=16&fontColor=BC25F7&fontAlign=left&fontAlignX=5" />
+  
+  <br>
+
+  <!-- Habilidades Desbloqueadas Animadas -->
+  <img src="https://vercel.app└─%20⚔️%20LVL%2005%20::%20Gestao%20%26%20Negociacao&fontSize=13&fontColor=39FF14&fontAlign=left&fontAlignX=5&animation=typing" />
+  
+  <img src="https://vercel.app└─%20⚔️%20LVL%2005%20::%20Comunicacao%20%26%20Atendimento&fontSize=13&fontColor=39FF14&fontAlign=left&fontAlignX=5&animation=typing" />
+  
+  <img src="https://vercel.app└─%20⚔️%20LVL%2004%20::%20Solucao%20de%20Problemas%20%26%20Analise&fontSize=13&fontColor=39FF14&fontAlign=left&fontAlignX=5&animation=typing" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00FFFF&height=6&section=header" width="100%" />
 
@@ -69,13 +93,15 @@ interseção que venho construindo minha trajetória.
 **Development**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,js,python,nodejs,git,github" />
+  <img src="https://skillicons.dev" />
 </div>
+
+<br>
 
 **Data & BI**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:BC25F7&height=6&section=header" width="100%" />
@@ -102,10 +128,10 @@ interseção que venho construindo minha trajetória.
 *As trilhas abaixo representam frentes de evolução e aprendizado — não são percentuais reais de domínio.*
 
 **Development Branch**
-`[▓▓▓▓▓▓▓▓░░░░░░░░░░░░]`
+`[▓▓▓▓▓▓▓▓░░░░░░░░░░░░]` 🚀 *Loading data...*
 
 **Data Science Branch**
-`[▓▓▓▓▓▓▓░░░░░░░░░░░░░]`
+`[▓▓▓▓▓▓▓░░░░░░░░░░░░░]` 📊 *Processing...*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00FFFF&height=6&section=header" width="100%" />
 
@@ -130,11 +156,13 @@ Espaço de experimentação e evolução contínua, com foco em:
 
 ## 📊 REAL-TIME METRICS DASHBOARD
 
-**Commits ao longo do tempo**
+**GitHub Contribution Snake**
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MemoEmery&bg_color=00000000&color=39FF14&line=00FFFF&point=BC25F7&area=true&area_color=39FF14&hide_border=true&hide_title=false" />
+  <img alt="GitHub Contribution Snake" src="https://githubusercontent.com">
 </div>
+
+<br>
 
 **Linguagens mais usadas**
 
